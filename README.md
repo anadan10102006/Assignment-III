@@ -119,6 +119,29 @@ const PATH_CSCAN = [2500, 512, 890, ..., 4999, 0, 201, ...];
 
 ---
 
+## 1.6 Desarrollo Teórico Complementario
+
+Además de la implementación práctica y la visualización de los algoritmos de scheduling, el proyecto incluye un documento adicional llamado `Assignment_III_Parte2.pdf`.
+
+En este archivo se desarrolla la parte teórica de la actividad propuesta en el enunciado del Assignment III, incluyendo el análisis conceptual de la gestión de entrada/salida (I/O), el estudio de los algoritmos de planificación de disco y la resolución de los ejercicios planteados sobre cálculo de movimientos del cabezal y comparación de estrategias de scheduling.
+
+El documento complementa la implementación realizada en C++ y sirve como soporte teórico para comprender el comportamiento y rendimiento de los algoritmos FCFS, SCAN y C-SCAN.
+
+---
+
+## Contenido del documento `Assignment_III_Parte2.pdf`
+
+El archivo incluye:
+
+* Resolución de ejercicios teóricos sobre scheduling de disco
+* Análisis paso a paso de recorridos del cabezal
+* Comparación entre algoritmos FCFS, SCAN y C-SCAN
+* Explicaciones conceptuales sobre eficiencia y latencia
+* Discusión sobre variantes del algoritmo Elevator/SCAN
+* Interpretación de resultados y comportamiento de los algoritmos
+
+---
+
 # 2. Visualización Gráfica
 
 La visualización se realiza abriendo el archivo `index.html` directamente en el navegador **después de haber ejecutado el programa** y generado el `data.js`.
